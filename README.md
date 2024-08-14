@@ -35,7 +35,7 @@ bash` tsc -b`
 
 - Option 1:
   - Run Docker Compose Ensure Docker Compose is installed.
-  - Run bash`docker-compose up` to start the Redis container and the application.
+  - Run bash`docker-compose up -d` to start the Redis container and the application.
   - Run bash`node dist/index.js` to start the application.
 - Option 2:
   - Set up Redis locally
