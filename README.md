@@ -9,7 +9,7 @@ This application is designed to process incoming emails efficiently using a comb
 
 ## Technologies Used:
 
-- TypeScrip
+- TypeScript
 - Gmail API
 - Groq API
 - Redis
