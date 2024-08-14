@@ -27,9 +27,9 @@ bash `npm i `
 
 ### Set up environment variables:
 
-Create client_id , client_secret in gmail at [Gmail Cloud](https://console.cloud.google.com/apis/dashboard) .
-Refer this: [BlogLink](https://mailtrap.io/blog/send-emails-with-gmail-api/)
-Get GLOQ Secret from : [Gloq Console](https://console.groq.com)
+- Create client_id , client_secret in gmail at [Gmail Cloud](https://console.cloud.google.com/apis/dashboard) .
+- Refer this: [BlogLink](https://mailtrap.io/blog/send-emails-with-gmail-api/)
+-Get GLOQ Secret from : [Gloq Console](https://console.groq.com)
 
 ### Build the TypeScript project:
 
